@@ -45,8 +45,6 @@ public class day3part1 {
 
             }
         });
-//            fabric[Integer.parseInt(stringList.get(1))][Integer.parseInt(stringList.get(2))] = stringList.get(0);
-
 
         System.out.println(count[0]);
     }
